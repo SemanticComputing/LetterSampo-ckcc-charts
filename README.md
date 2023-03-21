@@ -1,3 +1,3 @@
-#### LetterSampo-ckcc-charts
+#### LetterSampo-Mathematicians
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ptleskin/LetterSampo-ckcc-charts/blob/main/LetterSampo_Mathematicians.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z3KDQY7VP71-mZtoj5v4E6ukaH2DFqRl?usp=sharing)
